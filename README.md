@@ -1,4 +1,4 @@
-# Sales-Trend-Analysis-Using-Aggregations using MySQL
+# Sales-Trend-Analysis-Using-Aggregations in MySQL
 I have created Sales Trend Analysis Using Aggregations on online_sales.csv dataset uning MySQL.
 The Key components/functions used in the query to extract the sales trend analysis are mentioned below.
 YEAR(order_date) - Extracts the **year** from the 'order_date',                             
